@@ -42,7 +42,7 @@ python sim.py
 ```
 This will open the simulation window and start running the ecosystem.
 
-You can customize the simulation by modifying the parameters at the top of `sim.py`, for example:
+You can customize the simulation by modifying the parameters at the top of `EvoDynamicsEngine.py`, for example:
 ```python
 GRID_SIZE = 50
 NUM_CREATURES = 30
