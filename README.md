@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 Once everything is installed, run the simulation with:
 ```bash
-python sim.py
+python EvoDynamicsEngine.py
 ```
 This will open the simulation window and start running the ecosystem.
 
@@ -75,4 +75,9 @@ Community contributions are welcome.
 
 ## 💬 Contact
 For questions or feedback: https://github.com/ChenithaPalugaswewa
+
+## Other Links
+Youtube: https://www.youtube.com/@ChenithaP
+Roblox: https://www.roblox.com/users/4677503265/profile
+Community: https://www.roblox.com/communities/35145021/QuantumLeap-Studios-Inc#!/about
 
